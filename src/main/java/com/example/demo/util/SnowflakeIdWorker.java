@@ -3,7 +3,7 @@ package com.example.demo.util;
 /**
  * @author: yuanyuan.jing
  * @date: 2018/11/30 11:09
- * @description: 雪花算法生成全局唯一id，摘自网络 https://www.cnblogs.com/relucent/p/4955340.html
+ * @description: 雪花算法生成全局唯一id
  */
 public class SnowflakeIdWorker {
     /**
